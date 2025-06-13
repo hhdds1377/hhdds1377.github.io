@@ -3,11 +3,11 @@
   <title>FNK12345的技术博客</title>
   
   <subtitle>www.fnk12345.com</subtitle>
-  <link href="http://hhdds1377.github.io/atom.xml" rel="self"/>
+  <link href="http://www.fnk12345.com/atom.xml" rel="self"/>
   
-  <link href="http://hhdds1377.github.io/"/>
+  <link href="http://www.fnk12345.com/"/>
   <updated>2025-06-12T11:31:06.828Z</updated>
-  <id>http://hhdds1377.github.io/</id>
+  <id>http://www.fnk12345.com/</id>
   
   <author>
     <name>FNK12345</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://hhdds1377.github.io/2025/06/12/hello-world/"/>
-    <id>http://hhdds1377.github.io/2025/06/12/hello-world/</id>
+    <link href="http://www.fnk12345.com/2025/06/12/hello-world/"/>
+    <id>http://www.fnk12345.com/2025/06/12/hello-world/</id>
     <published>2025-06-12T11:31:06.828Z</published>
     <updated>2025-06-12T11:31:06.828Z</updated>
     
