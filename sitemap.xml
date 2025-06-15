@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.fnk12345.com/comments/index.html</loc>
+    <loc>http://www.fnk12345.com/2025/06/15/%E5%9F%BA%E7%A1%80%E5%A4%8D%E4%B9%A0/</loc>
     
     <lastmod>2025-06-15</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>http://www.fnk12345.com/about/index.html</loc>
+    
+    <lastmod>2025-06-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.fnk12345.com/comments/index.html</loc>
     
     <lastmod>2025-06-15</lastmod>
     
@@ -46,15 +55,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://www.fnk12345.com/2025/06/12/hello-world/</loc>
-    
-    <lastmod>2025-06-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://www.fnk12345.com/</loc>
@@ -64,6 +64,20 @@
   </url>
 
   
+  <url>
+    <loc>http://www.fnk12345.com/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2025-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>http://www.fnk12345.com/categories/Python/</loc>
+    <lastmod>2025-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
