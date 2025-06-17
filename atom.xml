@@ -6,7 +6,7 @@
   <link href="http://www.fnk12345.com/atom.xml" rel="self"/>
   
   <link href="http://www.fnk12345.com/"/>
-  <updated>2025-06-17T11:17:35.549Z</updated>
+  <updated>2025-06-17T11:36:00.096Z</updated>
   <id>http://www.fnk12345.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Web 开发</title>
-    <link href="http://www.fnk12345.com/python/"/>
-    <id>http://www.fnk12345.com/python/</id>
+    <link href="http://www.fnk12345.com/python/Web%20%E5%BC%80%E5%8F%91/"/>
+    <id>http://www.fnk12345.com/python/Web%20%E5%BC%80%E5%8F%91/</id>
     <published>2025-06-17T11:07:44.000Z</published>
-    <updated>2025-06-17T11:17:35.549Z</updated>
+    <updated>2025-06-17T11:36:00.096Z</updated>
     
     <content type="html"><![CDATA[<p>待定…</p>]]></content>
     
@@ -43,10 +43,10 @@
   
   <entry>
     <title>爬虫</title>
-    <link href="http://www.fnk12345.com/python/"/>
-    <id>http://www.fnk12345.com/python/</id>
+    <link href="http://www.fnk12345.com/python/%E7%88%AC%E8%99%AB/"/>
+    <id>http://www.fnk12345.com/python/%E7%88%AC%E8%99%AB/</id>
     <published>2025-06-17T11:06:23.000Z</published>
-    <updated>2025-06-17T11:17:38.464Z</updated>
+    <updated>2025-06-17T11:35:52.782Z</updated>
     
     <content type="html"><![CDATA[<p>待定…</p>]]></content>
     
@@ -68,10 +68,10 @@
   
   <entry>
     <title>基础部分</title>
-    <link href="http://www.fnk12345.com/python/"/>
-    <id>http://www.fnk12345.com/python/</id>
+    <link href="http://www.fnk12345.com/python/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/"/>
+    <id>http://www.fnk12345.com/python/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/</id>
     <published>2025-06-15T07:23:25.000Z</published>
-    <updated>2025-06-17T11:17:32.406Z</updated>
+    <updated>2025-06-17T11:35:56.454Z</updated>
     
     <content type="html"><![CDATA[<p>待定…</p>]]></content>
     
