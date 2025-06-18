@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>HHDDS&#39;s blog</title>
   
-  
+  <subtitle>学习，分享，记录。</subtitle>
   <link href="http://www.fnk12345.com/atom.xml" rel="self"/>
   
   <link href="http://www.fnk12345.com/"/>
