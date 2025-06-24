@@ -6,7 +6,7 @@
   <link href="http://www.fnk12345.com/atom.xml" rel="self"/>
   
   <link href="http://www.fnk12345.com/"/>
-  <updated>2025-06-24T07:55:36.605Z</updated>
+  <updated>2025-06-24T15:56:47.055Z</updated>
   <id>http://www.fnk12345.com/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GUI 编程</title>
+    <link href="http://www.fnk12345.com/python/GUI%20%E7%BC%96%E7%A8%8B/"/>
+    <id>http://www.fnk12345.com/python/GUI%20%E7%BC%96%E7%A8%8B/</id>
+    <published>2025-06-24T15:56:22.000Z</published>
+    <updated>2025-06-24T15:56:47.055Z</updated>
+    
+    <content type="html"><![CDATA[<p>待续…</p>]]></content>
+    
+    
+    <summary type="html">没有GUI，何谈程序设计？</summary>
+    
+    
+    
+    <category term="Python" scheme="http://www.fnk12345.com/categories/Python/"/>
+    
+    
+    <category term="技术" scheme="http://www.fnk12345.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>游戏开发</title>
+    <link href="http://www.fnk12345.com/python/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/"/>
+    <id>http://www.fnk12345.com/python/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/</id>
+    <published>2025-06-24T15:54:48.000Z</published>
+    <updated>2025-06-24T15:57:00.434Z</updated>
+    
+    <content type="html"><![CDATA[<p>待续…</p>]]></content>
+    
+    
+    <summary type="html">Python模块多，可以做游戏。</summary>
+    
+    
+    
+    <category term="Python" scheme="http://www.fnk12345.com/categories/Python/"/>
+    
+    
+    <category term="技术" scheme="http://www.fnk12345.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>诱惑（姐弟H，女性向）</title>
@@ -42,9 +84,9 @@
     <link href="http://www.fnk12345.com/python/Web%20%E5%BC%80%E5%8F%91/"/>
     <id>http://www.fnk12345.com/python/Web%20%E5%BC%80%E5%8F%91/</id>
     <published>2025-06-17T11:07:44.000Z</published>
-    <updated>2025-06-17T11:40:38.805Z</updated>
+    <updated>2025-06-24T15:56:52.213Z</updated>
     
-    <content type="html"><![CDATA[<p>待定…</p>]]></content>
+    <content type="html"><![CDATA[<p>待续…</p>]]></content>
     
     
     <summary type="html">如何用Python做网站，这是一个问题。</summary>
@@ -59,16 +101,16 @@
   </entry>
   
   <entry>
-    <title>爬虫</title>
-    <link href="http://www.fnk12345.com/python/%E7%88%AC%E8%99%AB/"/>
-    <id>http://www.fnk12345.com/python/%E7%88%AC%E8%99%AB/</id>
+    <title>网络爬虫</title>
+    <link href="http://www.fnk12345.com/python/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/"/>
+    <id>http://www.fnk12345.com/python/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/</id>
     <published>2025-06-17T11:06:23.000Z</published>
-    <updated>2025-06-17T11:50:27.091Z</updated>
+    <updated>2025-06-24T15:57:19.082Z</updated>
     
-    <content type="html"><![CDATA[<p>待定…</p>]]></content>
+    <content type="html"><![CDATA[<p>待续…</p>]]></content>
     
     
-    <summary type="html">爬虫不是小虫子，它能成大器。</summary>
+    <summary type="html">网络爬虫不是小虫子，它能成大器。</summary>
     
     
     
@@ -84,9 +126,9 @@
     <link href="http://www.fnk12345.com/python/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/"/>
     <id>http://www.fnk12345.com/python/%E5%9F%BA%E7%A1%80%E9%83%A8%E5%88%86/</id>
     <published>2025-06-15T07:23:25.000Z</published>
-    <updated>2025-06-17T11:39:22.892Z</updated>
+    <updated>2025-06-24T15:56:55.284Z</updated>
     
-    <content type="html"><![CDATA[<p>待定…</p>]]></content>
+    <content type="html"><![CDATA[<p>待续…</p>]]></content>
     
     
     <summary type="html">学好Python，必须夯实基础。</summary>
