@@ -6,7 +6,7 @@
   <link href="http://www.fnk12345.com/atom.xml" rel="self"/>
   
   <link href="http://www.fnk12345.com/"/>
-  <updated>2025-08-07T08:00:40.960Z</updated>
+  <updated>2025-08-07T11:48:43.437Z</updated>
   <id>http://www.fnk12345.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>人工智能</title>
+    <link href="http://www.fnk12345.com/2027/11/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <id>http://www.fnk12345.com/2027/11/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</id>
+    <published>2027-11-06T09:19:43.000Z</published>
+    <updated>2025-08-07T11:48:43.437Z</updated>
+    
+    <content type="html"><![CDATA[<p>待续…</p>]]></content>
+    
+    
+    <summary type="html">Python之奥义，人工智能不容置疑。</summary>
+    
+    
+    
+    <category term="Python" scheme="http://www.fnk12345.com/categories/Python/"/>
+    
+    
+    <category term="技术" scheme="http://www.fnk12345.com/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>游戏开发</title>
@@ -90,27 +111,6 @@
     
     
     <summary type="html">没有GUI，何谈程序设计？</summary>
-    
-    
-    
-    <category term="Python" scheme="http://www.fnk12345.com/categories/Python/"/>
-    
-    
-    <category term="技术" scheme="http://www.fnk12345.com/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>人工智能</title>
-    <link href="http://www.fnk12345.com/2025/11/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
-    <id>http://www.fnk12345.com/2025/11/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</id>
-    <published>2025-11-06T09:19:43.000Z</published>
-    <updated>2025-08-07T08:01:13.707Z</updated>
-    
-    <content type="html"><![CDATA[<p>待续…</p>]]></content>
-    
-    
-    <summary type="html">Python之奥义，人工智能不容置疑。</summary>
     
     
     
